@@ -1,2 +1,3 @@
-# forkify
-poodRecipy App with vanilla javaScript
+# forkify Project
+
+Recipe application with custom recipe uploads.
